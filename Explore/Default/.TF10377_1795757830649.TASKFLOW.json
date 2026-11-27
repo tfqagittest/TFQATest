@@ -1,0 +1,30 @@
+{
+  "objectInfo" : {
+    "schemaVersion" : null,
+    "idmcRelease" : null,
+    "productRelease" : null,
+    "id" : "blIfyvNSi6qkVoH9SysSkg",
+    "name" : "TF10377_1795757830649",
+    "type" : "TASKFLOW",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "3MYOuVGTiPZx1Xm-gt-241772-2026-11-27T05:37:10.875Z::tf.xml"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "application/json; charset=utf-8",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "xml",
+  "updateTime" : "2026-11-27T05:37:12.798Z",
+  "objectRefs" : [ ],
+  "readableFileExtension" : null,
+  "readableFilePresent" : false
+}
